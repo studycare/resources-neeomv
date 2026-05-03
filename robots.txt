@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studycare.github.io/resources-neeomv/sitemap.xml
